@@ -1,7 +1,8 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi, I'm Hrant Ispiryan<br>🚀 Android Developer<br><br>I love building Android apps and exploring new technologies. Always learning, always coding.<br><br>💡 What I Do<br>📱 Develop modern Android applications.<br>🔍 Work with Kotlin, Jetpack Compose, and the latest Android tools.<br>Feel free to check out my projects!<br><br>🌐 Socials:
+💫 About Me:<br>👋 Hi, I'm Hrant Ispiryan<br>🚀 Android Developer<br><br>I love building Android apps and exploring new technologies. Always learning, always coding.<br><br>💡 What I Do<br>📱 Develop modern Android applications.<br>🔍 Work with Kotlin, Jetpack Compose, and the latest Android tools.<br>Feel free to check out my projects!<br><br>
 
 
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hrant-ispiryan-736a0331b) 
 
 # 💻 Tech Stack:
